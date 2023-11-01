@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/ASB_SOFTWARE_DEVELOPMENT LIMITED/Projects/AVA_Orange/ORANGE/RESOURCES/okhttp-4.11.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/ASB_SOFTWARE_DEVELOPMENT LIMITED/Projects/AVA_Orange/ORANGE/RESOURCES/okio-2.8.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.jetbrains.kotlin.core.KOTLIN_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

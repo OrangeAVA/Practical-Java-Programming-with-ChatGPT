@@ -1,0 +1,16 @@
+Example REST code pattern for a ChatGPT test:
+curl https://api.openai.com/v1/chat/completions \
+ -H "Authorization: Bearer $OPENAI_API_KEY" \
+ -H "Content-Type: application/json" \
+ -d '{
+ "model": "gpt-3.5-turbo",
+ "messages": [{"role": "user", "content": "What is the OpenAI mission?"}] 
+ }'
+
+Example REST code pattern for ChatGPT Whisper AI:
+
+curl https://api.openai.com/v1/audio/transcriptions \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "Content-Type: multipart/form-data" \
+  -F model="whisper-1" \
+  -F file="@/path/to/file/openai.mp3"
