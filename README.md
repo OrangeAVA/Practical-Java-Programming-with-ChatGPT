@@ -32,7 +32,7 @@ Insights.
 
 2. [Ultimate Web Authentication Handbook](https://orangeava.com/products/ultimate-web-authentication-handbook)
 
-3. [UUltimate Typescript Handbook](https://orangeava.com/products/ultimate-typescript-handbook)
+3. [Ultimate Typescript Handbook](https://orangeava.com/products/ultimate-typescript-handbook)
 
 ## Visit Website 
 [ORANGE AVA™](https://orangeava.com)
